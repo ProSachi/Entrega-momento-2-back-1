@@ -11,6 +11,8 @@ public class Libro extends Documento {
     public String getCapitulos() {
         return capitulos;
     }
+
+    //set capitulos
     public void setCapitulos(String capitulos) {
         this.capitulos = capitulos;
     }
